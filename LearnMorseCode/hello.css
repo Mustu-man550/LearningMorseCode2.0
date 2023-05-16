@@ -1,0 +1,16 @@
+ @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@700&display=swap');
+
+body{
+    background-image: url('download.png');
+    font-family: 'Tajawal', sans-serif;
+}
+img{
+    opacity: 10%;
+}
+button{
+    border: 3px solid rgb(255, 162, 162);
+}
+.Key{
+    border: 20px solid black;
+    opacity: 100%;
+}
